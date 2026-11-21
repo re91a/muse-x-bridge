@@ -1,0 +1,6 @@
+cookies.json
+.env
+.last_action_ts
+__pycache__/
+*.pyc
+.venv/
